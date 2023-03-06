@@ -1,0 +1,9 @@
+﻿  matrixcal.cpp
+C:\Users\DELL\Downloads\matrixcal\matrixcal\matrixcal.cpp(38,20): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\DELL\Downloads\matrixcal\matrixcal\matrixcal.cpp(177,22): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\DELL\Downloads\matrixcal\matrixcal\matrixcal.cpp(192,30): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\DELL\Downloads\matrixcal\matrixcal\matrixcal.cpp(212,22): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\DELL\Downloads\matrixcal\matrixcal\matrixcal.cpp(224,30): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\DELL\Downloads\matrixcal\matrixcal\matrixcal.cpp(337,21): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\DELL\Downloads\matrixcal\matrixcal\matrixcal.cpp(362,21): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  matrixcal.vcxproj -> C:\Users\DELL\Downloads\matrixcal\x64\Debug\matrixcal.exe

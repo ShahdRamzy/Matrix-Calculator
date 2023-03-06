@@ -1,0 +1,16 @@
+﻿  matrixcal2.cpp
+C:\Users\DELL\Downloads\matrixcal2\matrixcal2\matrixcal2.cpp(90,1): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\DELL\Downloads\matrixcal2\matrixcal2\matrixcal2.cpp(102,1): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\DELL\Downloads\matrixcal2\matrixcal2\matrixcal2.cpp(103,1): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\DELL\Downloads\matrixcal2\matrixcal2\matrixcal2.cpp(118,1): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\DELL\Downloads\matrixcal2\matrixcal2\matrixcal2.cpp(134,1): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\DELL\Downloads\matrixcal2\matrixcal2\matrixcal2.cpp(140,1): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\DELL\Downloads\matrixcal2\matrixcal2\matrixcal2.cpp(144,1): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\DELL\Downloads\matrixcal2\matrixcal2\matrixcal2.cpp(146,37): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\DELL\Downloads\matrixcal2\matrixcal2\matrixcal2.cpp(148,1): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\DELL\Downloads\matrixcal2\matrixcal2\matrixcal2.cpp(157,34): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\DELL\Downloads\matrixcal2\matrixcal2\matrixcal2.cpp(195,37): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\DELL\Downloads\matrixcal2\matrixcal2\matrixcal2.cpp(225,47): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\DELL\Downloads\matrixcal2\matrixcal2\matrixcal2.cpp(267,88): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\DELL\Downloads\matrixcal2\matrixcal2\matrixcal2.cpp(271,102): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  matrixcal2.vcxproj -> C:\Users\DELL\Downloads\matrixcal2\x64\Debug\matrixcal2.exe
